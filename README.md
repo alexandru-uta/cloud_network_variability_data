@@ -1,5 +1,7 @@
 # Dataset on Cloud Network Variability
 
+[![DOI](https://zenodo.org/badge/228254892.svg)](https://zenodo.org/badge/latestdoi/228254892)
+
 This is the dataset obtained while benchmarking public and private clouds for the following article:
 
 ### Alexandru Uta, Alexandru Custura, Dmitry Duplyakin, Ivo Jimenez, Jan Rellermeyer, Carlos Maltzahn, Robert Ricci, Alexandru Iosup. Is Big Data Performance Reproducible in Modern Cloud Networks?. In proceedings of 17th USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2020, February 25-27, Santa Clara, USA.
